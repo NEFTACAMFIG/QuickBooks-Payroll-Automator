@@ -1,18 +1,5 @@
 # QuickBooks-Payroll-Automator: Excel API Integration
 
-pip install pandas requests openpyxl
-    ```
-
-## ⚙️ Installation & Usage
-
-1.¡Claro que sí! Una versión en inglés es fundamental si quieres que tu repositorio tenga un alcance global y se vea más profesional para empresas internacionales o reclutadores técnicos.
-
-Aquí tienes la traducción adaptada:
-
-***
-
-# QuickBooks Check Automator
-
 ![QuickBooks API](https://img.shields.io/badge/API-QuickBooks-green) ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Library-Pandas-orange)
 
 **QuickBooks Check Automator** is an automation solution designed to streamline the payroll and project payment process. The program extracts data from attendance reports (Excel), processes it, and leverages the **QuickBooks API** to automatically generate and upload checks, eliminating human error and saving hours of manual data entry.
